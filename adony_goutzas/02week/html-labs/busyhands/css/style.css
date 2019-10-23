@@ -1,0 +1,105 @@
+
+#wrapper {
+background-color: black;
+}
+
+#container {
+  width: 85%;
+  margin: 0 auto;
+  background-color: lightgrey;
+}
+
+#header {
+  background-color: grey;
+
+}
+.nav {
+	width: 100%;
+	display: block;
+  padding: 20px;
+  background: black;
+}
+
+ul li {
+		display: inline-block;
+		margin-right: 20px;
+}
+  a {
+    color: white;
+    text-decoration: none;
+  }
+
+.photobanner img {
+ width: 80%;
+ align-content: center;
+ margin: 30px;
+}
+
+#main-content {
+  background-color: lightgrey;
+}
+
+
+.imageshadow
+
+#home-boxes {
+  background: red;
+  }
+.homebox {
+  display: inline-block;
+}
+
+<footer>
+    .box-footer
+         .blogroll
+    .box-footer
+         .textwidget
+
+#copyright
+#companybottom
+
+
+
+#socialMedia {
+}
+
+#socialMedia ul li {
+	 display:inline-block;
+	 width:60px;
+	 height:60px;
+	 background:blue;
+	 text-indent:-9999em;
+}
+
+#socialMedia ul li.linkedIn {
+	background:url(../images/socialNav.png) 0px 64px;
+}
+#socialMedia ul li.twitter {
+	background:url(../images/socialNav.png) -60px 64px;
+}
+
+#socialMedia ul li.facebook {
+	background:url(../images/socialNav.png) -120px 64px;
+}
+
+#socialMedia ul li.rss {
+	background:url(../images/socialNav.png) -180px 64px;
+}
+
+
+
+#socialMedia ul li.linkedIn:hover {
+	background:url(../images/socialNav.png) 0px 0px;
+}
+
+#socialMedia ul li.twitter:hover {
+	background:url(../images/socialNav.png) -60px 0px;
+}
+
+#socialMedia ul li.facebook:hover {
+	background:url(../images/socialNav.png) -120px 0px;
+}
+
+#socialMedia ul li.rss:hover {
+	background:url(../images/socialNav.png) -180px 0px;
+}
