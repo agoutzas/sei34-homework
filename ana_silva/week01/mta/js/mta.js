@@ -82,6 +82,10 @@ const planTrip = function(initialLine, initialStation, finalLine, finalStation) 
   let finalLineStations;  //initialize array of stations from ending line
   let tripRoute;
 
+debugger;
+
+
+
   console.log(`From ${initialLine}, ${initialStation} - To ${finalLine}, ${finalStation}:`);
 
   //If starting or ending on Union Square but inputs have different lines

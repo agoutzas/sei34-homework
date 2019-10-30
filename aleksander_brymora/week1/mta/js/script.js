@@ -87,6 +87,7 @@ const lineSearch = function (points, transfer) {
 //-- 1 --
 //Main function - start
 const planTrip = function (lineStart, stationStart, lineEnd, stationEnd) {
+    debugger;
     //Defining an object to hold endpoints of the route
     let points = {
         start: {},
